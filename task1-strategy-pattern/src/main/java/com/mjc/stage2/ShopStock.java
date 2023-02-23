@@ -1,6 +1,5 @@
 package com.mjc.stage2;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -18,5 +17,3 @@ public class ShopStock {
     }
 }
 
-//        You also need to implement the List executeFilteringStrategy(FilteringStrategy filteringStrategy) method
-//        in the ShopStock class, which returns the products for your filtering strategy.
